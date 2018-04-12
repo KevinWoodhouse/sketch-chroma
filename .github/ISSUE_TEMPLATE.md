@@ -1,9 +1,9 @@
-##Detailed description of issue
+## Detailed description of issue
 
-##Steps to reproduce the issue
+## Steps to reproduce the issue
 
-##Version of Sketch and Nudged?
+## Version of Sketch and Nudged?
 
-##Error message
+## Error message
 
-##ScreenShots / Video
+## Upload ScreenShots / Video
