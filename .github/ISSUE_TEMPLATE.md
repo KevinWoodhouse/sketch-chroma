@@ -1,17 +1,16 @@
-
 ### Subject of the issue
 Describe your issue here.
 
 ### Your environment
 * version of MacOS
 * version of Sketch
-* version of Nudged
+* version of Chroma
 
 ### Recent changes to your environment
 Tell us if you have recently updated or installed anything new, including other sketch plugins.
 
-### Nudged Install
-Tell is where you downloaded and installed Nudged from? 
+### Chroma Install
+Tell is where you downloaded and installed chroma from? 
 Github / Gumroad / Runner / other (please specify).
 
 ### Steps to reproduce
